@@ -1,0 +1,22 @@
+Atividade.
+
+Você recebeu uma demanda na empresa ao qual trabalha, para realizar a manutenção do sistema da escola Senac Tech.
+
+O sistema da escola Senac Tech, precisa de uma atualização na formatação das suas páginas, na parte da responsividade.
+
+Você como desenvolvedor, recebeu essa demanda, e deve realizar essa manutenção do sistema.
+
+Utilizar como referência o site www.senacrs.com.br, para realizar a atualização do sistema e incluir novas informações.
+
+Observações do sistema:
+- Nenhuma página do sistema é responsiva;
+- As imagens do sistema não são responsivas;
+- O menu do sistema não é responsivo;
+- Algumas páginas do sistema utilizam tabelas, que não são responsivas;
+- O mapa da localização, não é responsivo.
+
+Prazo para entrega da atividade - 3 dias ou mais
+Enviar atividade por e-mail:
+mglmatiolla@gmail.com
+Assunto: Quinta atividade turma 
+Corpo do e-mail: nome do aluno(a) + anexo do projeto compactado ou link para download
