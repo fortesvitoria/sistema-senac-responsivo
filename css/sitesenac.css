@@ -80,103 +80,22 @@ h1 {
 	
 }
 
-/* .titulo{
+/* ****** SECAO RODAPE ****** */
+
+.rodape-logo {
+	background-color: var(--azul);
+	display: flex;
+	justify-content: center;
+	padding: 2em;
+}
+
+.logo-senac-footer {
+	width: 10em;
+}
+
+.rodape-direitos {
+	background-color: var(--laranja);
+	font-size: 16px;
 	text-align: center;
-	font-family: arial black;
-	color: #004587;
-	padding-top: 10px;
-	padding-bottom: 5px;
-	font-size: 40px;
-	
-} */
-/* .titulo2{
-	text-align: center;
-	font-family: arial;
-	color: #004587;
-	padding-top: 1px;
-	padding-bottom: 5px;
-	font-size: 30px;
-} */
-/* .titulo3{
-	text-align: center;
-	font-family: arial;
-	color: #004587;
-	padding-top: 1px;
-	padding-bottom: 5px;
-	font-size: 20px;
-} */
-/* .pjustify{
-	text-align: justify;
-	font-family: arial;
-	color: #004587;
-	font-size: 18px;
-	padding-bottom: 20px;
-	
-} */
-/* .textofotos{
-	text-align: justify;
-	font-family: arial;
-	color: #004587;
-	font-size: 20px;
-	padding-top: 15px;
-	padding-bottom: 15px;
-} */
-/* Formatação das Linhas Horizontais */
-/* hr{
-	background-color: #F7941D;
-	height: 2px;
-	width: 100%;
-} */
-/* Formatações das Imagens */
-/* .senac{
-	text-align: left;
-	padding-top: 1px;
-    padding-bottom: 15px;
-	width: 200px;
-	height: 80px;
-} */
-/* .fecomercio{
-	text-align: center;
-	padding-top: 1px;
-	padding-bottom: 15;
-	width: 300px;
-	height: 80px;
-} */
-/* .escola{
-	text-align: center;
-	border-radius: 2px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	width: 1600px;
-	height: 300px;
-} */
-/* .curso{
-	text-align: center;
-	border-radius: 2px;
-	padding-top: 2px;
-	padding-bottom: 2px;
-	width: 1200px;
-	height: 350px;
-} */
-/* .ifoto{
-	text-align: left;
-	width: 500px;
-	height: 300px;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	padding-right: 20px;
-} */
-/* Formatações das Redes Sociais */
-/* .rsocial{
-	text-align: left;
-	padding-top: 1px;
-	width: 40px;
-	height: 40px;
-} */
-/* Formatação do Desenvolvedor */
-/* .marca{
-	text-align: right;
-	color: #F7941D;
-	font-family: arial;
-	font-size: 15px;
-} */
+	padding: 0.75em;
+}
