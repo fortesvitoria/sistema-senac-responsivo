@@ -62,27 +62,21 @@ h1 {
 
 .secao-escola-fotos {
 	display: flex;
+	justify-content: space-between;
 	padding: 1em 5em;
 }
 
 .secao-escola-info {
-	display: flex;
-	flex-direction: column;
 	text-align: justify;
-	padding: 1em;	
-	justify-content: space-around;
-	/* justify-content: center; */
 }
 .secao-fotos-info {
 	display: flex;
 	flex-direction: column;
-	justify-content: left;
 	align-items: center;
-	width: 20em;
 	margin: 2em;
 }
 .ifoto {
-	width: 20em;
+	width: 25em;
 	
 }
 
