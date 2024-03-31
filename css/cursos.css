@@ -1,0 +1,40 @@
+.titulo2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.titulo3 {
+    font-weight: 500;
+    text-align: center;
+}
+
+thead {
+    background-color: var(--laranja);
+}
+
+table,td {
+    border: solid 1px var(--laranja);
+}
+
+.cursos {
+ margin: 0 2em;
+}
+
+.info {
+    margin: 0 2em;
+    text-align: justify;
+}
+
+td img {
+    height: 200px;
+    width: 300px;
+    margin: 0;
+}
+
+/* ****** SECAO MOBILE - RESPONSIVO ****** */
+
+@media only screen and (max-width: 500px) { 
+    .saiba-mais {
+      display: none; 
+    }
+}
